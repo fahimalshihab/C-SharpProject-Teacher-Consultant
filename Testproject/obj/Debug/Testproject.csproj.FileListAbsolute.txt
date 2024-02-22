@@ -1,0 +1,38 @@
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\bin\Debug\Testproject.exe.config
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\bin\Debug\Testproject.exe
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\bin\Debug\Testproject.pdb
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.AssemblyReference.cache
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Form1.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Properties.Resources.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.GenerateResource.cache
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.CoreCompileInputs.cache
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.exe
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.pdb
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.MenuForm.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Form2.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Form3.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Home.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Teachers_form.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.Tview.resources
+C:\Users\ifty w\Desktop\c# project\login logout\Testproject\Testproject\obj\Debug\Testproject.TR.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\bin\Debug\Testproject.exe.config
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\bin\Debug\Testproject.exe
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\bin\Debug\Testproject.pdb
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.AssemblyReference.cache
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Form1.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Form2.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Form3.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Home.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.MenuForm.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Properties.Resources.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.routine.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Teachers_form.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.TR.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.Tview.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.T_Routine.resources
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.GenerateResource.cache
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.csproj.CoreCompileInputs.cache
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.exe
+C:\Users\ifty w\Desktop\c# project - Copy\login logout\Testproject\Testproject\obj\Debug\Testproject.pdb
